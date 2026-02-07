@@ -1,0 +1,8 @@
+
+----- Invoice -----
+Date: 2026-02-07 12:54:28.951818
+Customer: meet
+Device: phone
+Cost: 4557.0
+Tax: 820.26
+Total: 5377.26
